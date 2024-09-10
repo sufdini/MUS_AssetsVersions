@@ -1,0 +1,1 @@
+{"version":"2.5.6","news":"tilføjet tablet ui, tilføjet en masse ting i config, tilføjet en masse ting med ox_target, tilføjet at databasen opretter sig selv når man starte scripted, tilføjet optimering i scripted"}
